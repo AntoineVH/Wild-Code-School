@@ -1,1 +1,3 @@
-Wild Code School
+# git-wcs
+
+read me
