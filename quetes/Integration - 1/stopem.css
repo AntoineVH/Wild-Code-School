@@ -31,9 +31,14 @@
 }
 
 .badge {
-     font-size: 100%;
+     font-size: 120%;
 }
 
+.containufuk {
+    max-width: 99%;
+    margin-right: 0px;
+    padding-right: 0px;
+}
 .ransom {
   height: 40px;
   width: 300px;
@@ -47,7 +52,7 @@
 
 .dead {
     padding: 3vh;
-    font-size: 3vw;
+    font-size: 4vw;
     text-align: center;
     opacity: 1;
 }
@@ -55,12 +60,6 @@
 @media only screen and (max-width: 575px) {
     .dead {
         font-size: 10vw;
-    }
-}
-
-@media only screen and (max-width: 575px) {
-    .badge {
-        width: 70%;
     }
 }
 
