@@ -1,17 +1,17 @@
 @font-face {
     font-family: "Party Business";
-    src: url("/home/wilder/wcs/Wild Code School/Necessaire/partybusiness.ttf")  format("truetype");
+    src: url("Wild-Code-School/Necessaire/partybusiness.ttf")  format("truetype");
 }
 
 @font-face {
     font-family: "Ani";
-    src: url("/home/wilder/wcs/Wild Code School/Necessaire/anirm___.ttf")  format("truetype");
+    src: url("Wild-Code-School/Necessaire/anirm___.ttf")  format("truetype");
 
 }
 
 @font-face {
     font-family: "Ana";
-    src: url("/home/wilder/wcs/Wild Code School/Necessaire/tngan.ttf") format("truetype");
+    src: url("Wild-Code-School/Necessaire/tngan.ttf") format("truetype");
 }
 
 .beauti {
