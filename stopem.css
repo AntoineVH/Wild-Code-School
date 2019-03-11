@@ -1,0 +1,165 @@
+@font-face {
+    font-family: "Party Business";
+    src: url("/home/wilder/wcs/Wild Code School/Necessaire/partybusiness.ttf")  format("truetype");
+}
+
+@font-face {
+    font-family: "Ani";
+    src: url("/home/wilder/wcs/Wild Code School/Necessaire/anirm___.ttf")  format("truetype");
+
+}
+
+@font-face {
+    font-family: "Ana";
+    src: url("/home/wilder/wcs/Wild Code School/Necessaire/tngan.ttf") format("truetype");
+}
+
+.beauti {
+    font-family: "Ana";
+    color: #fe6a22;
+}
+
+.oranjmanbad {
+    color: #fe6a22;
+}
+
+header nav a {
+    font-family: "Ani";
+}
+
+header {
+    background-color: #fe661d;
+}
+
+.bdr a {
+    font-family: "Ani";
+    color: white !important;
+    border-right: solid 1px white;
+}
+
+@media only screen and (max-width: 992px) {
+    .bdr a{
+        border: none;
+    }
+}
+
+body {
+    font-family: "Party Business";
+    background-image: url(/home/wilder/wcs/Wild\ Code\ School/quetes/integration/img\ font/integration_maquette_finale/bg_light.png);
+}
+
+h2 {
+    font-family: "Ani";
+}
+
+.wraper {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.card-deck {
+    max-width: 99%;
+}
+
+.most {
+    margin: auto;
+}
+
+.fs {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.cardmax {
+	margin: auto;
+	max-width: 80rem;
+}
+
+.formmax {
+	margin: auto;
+	max-width: 60rem;
+}
+
+.badge {
+     font-size: 120%;
+}
+
+.containufuk {
+    max-width: 100%;
+    margin-right: 0px;
+    padding-right: 0px;
+}
+
+.ransom {
+  height: 90px;
+  width: 300px;
+  background-color: white;
+  border-radius: 15px;
+  font-size: 150%;
+  text-align: center;
+  opacity: 0.7;
+  color: black !important;
+}
+
+@media only screen and (max-width: 992px) {
+    .dead {
+        font-size: 8vw;
+    }
+}
+
+.card-img-top{
+    opacity: 0.7;
+}
+
+.wanteds:hover .card-img-overlay {
+    opacity:0;
+}
+
+.wanteds:hover .card-img-top{
+    opacity:1;
+}
+
+.carousel-caption {
+    font-size: 200%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.carousel-inner{
+    position: relative;
+    text-align: center;
+}
+
+@media only screen and (min-width: 992px) {
+    .navbar-nav {
+        float: right;
+    }
+}
+
+.card-text {
+    color: white;
+    font-size: 200%;
+}
+
+.dead {
+    padding: 3vh;
+    font-size: 4vw;
+    text-align: center;
+    opacity: 1;
+    color: #fe6a22;
+}
+
+
+.arago {
+    text-decoration-color: #fe6a22;
+    text-decoration-line: line-through;
+}
+
+.noms {
+    font-size: 200%;
+    text-align: center;
+    color: white !important;
+    transform: translate(0%, -50%);
+  }
